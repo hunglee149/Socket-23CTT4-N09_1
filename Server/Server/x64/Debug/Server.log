@@ -1,0 +1,3 @@
+﻿  server.cpp
+E:\Programming\SocketProgramming\Server\Server\server.cpp(88,26): warning C4244: '=': conversion from 'std::streamsize' to 'int', possible loss of data
+  Server.vcxproj -> E:\Programming\SocketProgramming\Server\x64\Debug\Server.exe

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\SocketProgramming\\Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F6A20-00D3-47E7-A422-E9ED271B547D}|Server\\Server.vcxproj|E:\\Programming\\SocketProgramming\\Server\\Server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E62F6A20-00D3-47E7-A422-E9ED271B547D}|Server\\Server.vcxproj|solutionrelative:Server\\server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62F6A20-00D3-47E7-A422-E9ED271B547D}|Server\\Server.vcxproj|E:\\Programming\\SocketProgramming\\Server\\Server\\file_list.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E62F6A20-00D3-47E7-A422-E9ED271B547D}|Server\\Server.vcxproj|solutionrelative:Server\\file_list.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "server.cpp",
+              "DocumentMoniker": "E:\\Programming\\SocketProgramming\\Server\\Server\\server.cpp",
+              "RelativeDocumentMoniker": "Server\\server.cpp",
+              "ToolTip": "E:\\Programming\\SocketProgramming\\Server\\Server\\server.cpp",
+              "RelativeToolTip": "Server\\server.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAIUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-05T14:23:39.517Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "file_list.txt",
+              "DocumentMoniker": "E:\\Programming\\SocketProgramming\\Server\\Server\\file_list.txt",
+              "RelativeDocumentMoniker": "Server\\file_list.txt",
+              "ToolTip": "E:\\Programming\\SocketProgramming\\Server\\Server\\file_list.txt",
+              "RelativeToolTip": "Server\\file_list.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T16:01:37.232Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
